@@ -11,12 +11,14 @@
 I'm in the middle of an intensive **Data Science & AI Bootcamp** (2026–2027) at WBS Coding School —
 working through SQL, Tableau, Python, Statistics, Machine Learning, Cloud, and AI Engineering over 12 months.
 
-I don't learn by memorising syntax. I learn by understanding why something works the way it does.
-That takes a bit longer at the start — and holds up a lot better under pressure.
+I focus on understanding systems rather than memorising syntax —
+which makes problem-solving faster and more reliable once complexity increases.
 
 **Target roles:** Junior Data Analyst · BI Analyst · Data Science Trainee
 **Location:** Hamburg / Schleswig-Holstein
 
+## Tech Stack
+SQL · Python · Tableau · Git · MySQL · Pandas · Jupyter · Excel
 ---
 
 ## Featured project
