@@ -8,7 +8,7 @@
 
 ## What I'm doing right now
 
-I'm in the middle of an intensive **Data Science & AI Bootcamp** (2025–2026) at WBS Coding School —
+I'm in the middle of an intensive **Data Science & AI Bootcamp** (2026–2027) at WBS Coding School —
 working through SQL, Tableau, Python, Statistics, Machine Learning, Cloud, and AI Engineering over 12 months.
 
 I don't learn by memorising syntax. I learn by understanding why something works the way it does.
