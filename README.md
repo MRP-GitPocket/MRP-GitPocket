@@ -1,57 +1,71 @@
-# Hi, I'm M.R.P. 👋
+# Hi, I'm Marco 👋
 
-**Data Analyst | Turning Complex Database Structures into Actionable Business Growth**
+> *Born 1982. Talking to computers — and actually understanding what they say back.*
 
-I am a structured, visual thinker who bridges the gap between raw data and strategic business decisions. With a strong background in technology ecosystems and analytics, I focus on identifying operational thresholds, logistics optimization, and market entry strategies.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-*   **Databases & Querying:** SQL (MySQL, PostgreSQL), DBeaver, MySQL Workbench
-*   **Data Analysis & Scripting:** Python (Pandas, NumPy)
-*   **Data Visualization:** Tableau Public, Streamlit
-*   **Collaboration & Workflows:** Git, GitHub Pro
+📍 Itzehoe · Hamburg region &nbsp;|&nbsp; 🎓 WBS Coding School · Data Science & AI &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/marco-p-91346b339)
 
 ---
 
-### 🚀 Featured Projects
+## What I'm doing right now
 
-#### 📊 [Market Entry Analysis Brazil – Eniac × Magist](https://github.com/MRP-GitPocket/ENIAC_Expansion_Brasil_SQL_Tableau_2026)
-*   **The Problem:** Should a tech company enter the Brazilian market via a local marketplace provider?
-*   **The Analytics:** Quantified regional delivery reliability across 25+ states and uncovered a critical **3.5-day delivery delay threshold** where customer satisfaction drops to 2 stars.
-*   **The Value:** Developed a 3-stage strategic roadmap (Geographic Pilot Phase & contractual SLAs) to protect brand equity.
-*   **Tech used:** MySQL, Tableau Public
+I'm in the middle of an intensive **Data Science & AI Bootcamp** (2025–2026) at WBS Coding School —
+working through SQL, Tableau, Python, Statistics, Machine Learning, Cloud, and AI Engineering over 12 months.
 
-#### 🤖 [Live AI-Skill-Shift Tracker (DACH Region)](https://github.com/MRP-GitPocket/ai-skill-tracker) *(In Development)*
-*   **The Problem:** How fast are AI skills replacing traditional software requirements in modern data roles?
-*   **The Analytics:** An automated ETL pipeline that scrapes live job market data daily, analyzes requirement shifts via Python NLP, and logs them into an integrated database.
-*   **The Value:** Real-time labor market insights for tech-recruitment and strategic workforce planning.
-*   **Tech used:** Python (Requests, Pandas), GitHub Actions (Automation), SQLite
+I don't learn by memorising syntax. I learn by understanding why something works the way it does.
+That takes a bit longer at the start — and holds up a lot better under pressure.
+
+**Target roles:** Junior Data Analyst · BI Analyst · Data Science Trainee
+**Location:** Hamburg / Schleswig-Holstein
 
 ---
 
-### 📈 GitHub Automation Status
-*   **Current Live Pipelines:** 1 (AI-Skill-Shift Tracker running daily at 06:00 UTC via GitHub Actions)
-*   **Account Status:** GitHub Pro 💜
+## Featured project
+
+### [ENIAC Expansion Brasil — SQL & Tableau](https://github.com/MRP-GitPocket/ENIAC_Expansion_Brasil_SQL_Tableau_2026)
+
+Group project analyzing whether electronics retailer Eniac should enter the Brazilian e-commerce
+market via a partnership with Magist.
+
+- Queried and cleaned real marketplace data using SQL
+- Identified critical logistics SLA gaps and consumer payment patterns
+- Built a Tableau dashboard to support strategic decision-making
+- Delivered a data-backed recommendation in a formal business presentation
 
 ---
 
-### 🤝 Connect with me
-*   **LinkedIn:** [linkedin.com/in/marco-p-91346b339](https://www.linkedin.com/in/marco-p-91346b339)
+## Skills in progress
 
+| Skill | Status |
+|---|---|
+| SQL — joins, subqueries, aggregations | ✅ active |
+| Tableau — dashboards, storytelling | ✅ active |
+| Python · Pandas | 🔄 started |
+| Statistics & A/B Testing | 🔜 next |
+| Machine Learning | 🔜 ahead |
+| Azure Cloud | 🔜 ahead |
+| AI Engineering · MLOps | 🔜 ahead |
 
-<!--
-**MRP-GitPocket/MRP-GitPocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repo | About |
+|---|---|
+| [ENIAC_Expansion_Brasil_SQL_Tableau_2026](https://github.com/MRP-GitPocket/ENIAC_Expansion_Brasil_SQL_Tableau_2026) | Market entry study · SQL & Tableau |
+| [WBS-BootCamp2026](https://github.com/MRP-GitPocket/WBS-BootCamp2026) | Exercises and notes from the WBS Bootcamp |
+
+---
+
+## A bit about me
+
+Career changer. I spent years working with systems and people before deciding to work with data.
+
+I think in structures and connections — which turns out to be useful when you're writing queries,
+debugging logic, or trying to explain a finding to someone who didn't see the data.
+
+If you're looking for a junior profile with genuine analytical curiosity and the discipline
+to see things through: feel free to reach out.
+
+---
+
+*Last updated: June 2026*
