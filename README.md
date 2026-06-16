@@ -17,8 +17,10 @@ which makes problem-solving faster and more reliable once complexity increases.
 **Target roles:** Junior Data Analyst · BI Analyst · Data Science Trainee
 **Location:** Hamburg / Schleswig-Holstein
 
+
 ## Tech Stack
 SQL · Python · Tableau · Git · MySQL · Pandas · Jupyter · Excel
+
 ---
 
 ## Featured project
